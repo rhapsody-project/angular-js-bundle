@@ -42,7 +42,7 @@ use Symfony\Component\HttpKernel\Bundle\Bundle;
  * @version   $Id$
  * @since     1.0
  */
-class RhapsodyAngularBundle extends Bundle
+class RhapsodyAngularJsBundle extends Bundle
 {
 
 }
