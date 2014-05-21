@@ -1,0 +1,26 @@
+{
+    "name": "rhapsody-project/angular-js-bundle",
+    "type": "symfony-bundle",
+    "description": "AngularJS bundle for Symfony 2",
+    "keywords": ["angular", "angularjs", "javascript", "mvc"],
+    "homepage": "https://github.com/rhapsody-project/angular-js-bundle",
+    "version": "1.2.16",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sean Quinn"
+        },
+        {
+            "name": "Rhapsody Project",
+            "homepage": "https://github.com/rhapsody-project/angular-js-bundle/contributors"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.2"
+    },
+    "autoload": {
+        "psr-0": { "Rhapsody\\AngularJsBundle": "" }
+    },
+    "target-dir": "Rhapsody/AngularJsBundle",
+    "minimum-stability": "dev"
+}
